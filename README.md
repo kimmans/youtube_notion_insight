@@ -72,4 +72,4 @@ streamlit run app.py
 
 ## 라이선스
 
-jmango@gmail.com
+jmhanmu@gmail.com
